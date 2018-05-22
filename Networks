@@ -1,3 +1,4 @@
 # Wireshark
  infected Windows system : STRING:http contains "This program cannot be run in DOS mode" (find string fitter)
  user windows : STRINGS: 'GUID' (find string packet) 
+ tshark -r filepcap -T fields -e fieldname | grep 'xx' | cut -d ':' -f 3
