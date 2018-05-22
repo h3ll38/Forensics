@@ -1,2 +1,3 @@
 # Wireshark
- infected Windows system : STRING:  'This program cannot be run in DOS mode'
+ infected Windows system : STRING:http contains "This program cannot be run in DOS mode" (find string fitter)
+ user windows : STRINGS: 'GUID' (find string packet) 
