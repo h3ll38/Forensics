@@ -1,0 +1,1 @@
+ffmpeg -i hummel.mp4 hummel.mp3
