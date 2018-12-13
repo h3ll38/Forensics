@@ -1,0 +1,9 @@
+Flag semaphore : https://en.wikipedia.org/wiki/Flag_semaphore
+==========================================
+SNOW : STEG WHITESPACE ( pdf or...
+tool:http://www.darkside.com.au/snow/
+=========================================
+wav , mp4 , ... to binary
+https://github.com/scai16/CTF/tree/master/2018/DefCamp%20CTF%202018/Voices
+==========================================
+
