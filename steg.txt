@@ -6,4 +6,7 @@ tool:http://www.darkside.com.au/snow/
 wav , mp4 , ... to binary
 https://github.com/scai16/CTF/tree/master/2018/DefCamp%20CTF%202018/Voices
 ==========================================
+comment with ZSTEG
+https://teamrocketist.github.io/2017/09/15/Misc-SECTF-Joeys-screenshot/
+===========================================
 
