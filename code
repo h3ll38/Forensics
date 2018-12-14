@@ -1,0 +1,12 @@
+Code split RGB
+---------------------------
+import cv2
+import numpy as n
+
+img=cv2.imread('lost_friends.png',cv2.IMREAD_UNCHANGED)
+r,g,b=cv2.split(img)
+
+cv2.imwrite('r.png',r)
+cv2.imwrite('g.png',g)
+cv2.imwrite('b.png',b)
+-----------------------------
