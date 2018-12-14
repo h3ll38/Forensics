@@ -9,4 +9,7 @@ https://github.com/scai16/CTF/tree/master/2018/DefCamp%20CTF%202018/Voices
 comment with ZSTEG
 https://teamrocketist.github.io/2017/09/15/Misc-SECTF-Joeys-screenshot/
 ===========================================
+split RGB
+https://wwe.megabeets.net/pragyan-ctf-lost-friends/
+===========================================
 
