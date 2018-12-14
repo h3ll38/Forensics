@@ -10,6 +10,6 @@ comment with ZSTEG
 https://teamrocketist.github.io/2017/09/15/Misc-SECTF-Joeys-screenshot/
 ===========================================
 split RGB
-https://wwe.megabeets.net/pragyan-ctf-lost-friends/
+https://www.megabeets.net/pragyan-ctf-lost-friends/
 ===========================================
 
