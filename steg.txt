@@ -12,4 +12,6 @@ https://teamrocketist.github.io/2017/09/15/Misc-SECTF-Joeys-screenshot/
 split RGB
 https://www.megabeets.net/pragyan-ctf-lost-friends/
 ===========================================
+compress doc.x
+ zip -r a.docx *
 
