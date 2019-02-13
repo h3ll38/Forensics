@@ -14,4 +14,8 @@ https://www.megabeets.net/pragyan-ctf-lost-friends/
 ===========================================
 compress doc.x
  zip -r a.docx *
+ ====================================
+ split gif
+ https://ezgif.com/split
+
 
