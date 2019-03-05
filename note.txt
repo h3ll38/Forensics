@@ -1,0 +1,2 @@
+https://atipahy.com/2019/03/05/bsidessf-2019-ctf-slashslash/
+decrypt aes with openssl
